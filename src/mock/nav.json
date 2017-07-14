@@ -1,0 +1,60 @@
+{
+    "flag": 1,
+    "msg": "",
+    "data": [{
+        "NavID": "2",
+        "Title": "\u63a8\u8350",
+        "Link": "/home/index"
+    },
+    {
+        "NavID": "3",
+        "Title": "\u5c45\u5bb6",
+        "Link": "/home/class"
+    },
+    {
+        "NavID": "13",
+        "Title": "\u7f8e\u5986",
+        "Link": "/home/class"
+    },
+    {
+        "NavID": "12",
+        "Title": "\u4e2a\u62a4",
+        "Link": "/home/class"
+    },
+    {
+        "NavID": "8",
+        "Title": "\u7bb1\u5305",
+        "Link": "/home/class"
+    },
+    {
+        "NavID": "9",
+        "Title": "\u5bb6\u7535",
+        "Link": "/home/class"
+    },
+    {
+        "NavID": "4",
+        "Title": "\u53a8\u623f",
+        "Link": "/home/class"
+    },
+    {
+        "NavID": "11",
+        "Title": "\u914d\u9970",
+        "Link": "/home/class"
+    },
+    {
+        "NavID": "14",
+        "Title": "\u96f6\u98df",
+        "Link": "/home/class"
+    },
+    {
+        "NavID": "7",
+        "Title": "\u6bcd\u5a74",
+        "Link": "/home/class"
+    },
+    {
+        "NavID": "5",
+        "Title": "\u5bb6\u5177",
+        "Link": "/home/class"
+    }],
+    "extra": {}
+}
